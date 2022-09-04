@@ -200,6 +200,14 @@
       imageURL: "https://i.imgur.com/nbCB23S.png"
 
     },
+    {
+      id: 25,
+      title: "MagiAto",
+      description: "The goodest wizard of them all.",
+      collection: "Divine Inspirations",
+      imageURL: "https://i.imgur.com/KybMviL.png"
+
+    },
   ]) 
   </script>
 

@@ -150,7 +150,7 @@
       title: "Destroyer of Worlds",
       description: "The great fire",
       collection: "Ragnarok",
-      imageURL: "https://i.imgur.com/uWmD4UH.png"
+      imageURL: "https://i.imgur.com/HXbFRbn.png"
 
     },
     {
@@ -183,6 +183,14 @@
       description: "Concept artwork for the Sonic Gold token",
       collection: "Sonic Gold",
       imageURL: "https://i.imgur.com/h1VLzRg.png"
+
+    },
+    {
+      id: 24,
+      title: "The Upkeeper",
+      description: "Concept artwork for the Sonic Gold token",
+      collection: "The Walks of Life",
+      imageURL: "https://i.imgur.com/nbCB23S.png"
 
     },
   ]) 

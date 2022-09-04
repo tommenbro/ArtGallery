@@ -3,6 +3,13 @@
   import { ref } from 'vue';
   
   const campingSpots = ref([
+  {
+      id: 0,
+      title: "The Golden Man",
+      description: "Artwork made for The Order of The Golden Man",
+      collection: "Lords and Gods",
+      imageURL: "https://i.imgur.com/x89WbOl.png"
+    },
     {
       id: 1,
       title: "Alpha Wolf",
@@ -86,7 +93,7 @@
       id: 11,
       title: "Emma",
       description: "Digital painting, I call her Emma.",
-      collection: "Ladies & Goddesses",
+      collection: "Ladies and Goddesses",
       imageURL: "https://i.imgur.com/77gYtbk.png"
 
     },
@@ -94,7 +101,7 @@
       id: 12,
       title: "Eva",
       description: "Digital painting, I call her Eva.",
-      collection: "Ladies & Goddesses",
+      collection: "Ladies and Goddesses",
       imageURL: "https://i.imgur.com/wWrEUuP.png"
 
     },
@@ -102,7 +109,7 @@
       id: 13,
       title: "Ella",
       description: "Digital painting, I call her Ella.",
-      collection: "Ladies & Goddesses",
+      collection: "Ladies and Goddesses",
       imageURL: "https://i.imgur.com/EzvsQoT.png"
 
     },
@@ -110,7 +117,7 @@
       id: 14,
       title: "How To Make An Ad",
       description: "Digital painting, inspired by the classic sports car ads of the 20th century.",
-      collection: "Ladies & Goddesses",
+      collection: "Ladies and Goddesses",
       imageURL: "https://i.imgur.com/hhqB2PQ.png"
 
     },
@@ -118,7 +125,7 @@
       id: 15,
       title: "White Girl Summer",
       description: "Digital painting, mysterious sundress babe transcending space and time.",
-      collection: "Ladies & Goddesses",
+      collection: "Ladies and Goddesses",
       imageURL: "https://i.imgur.com/TMJ1guk.png"
 
     },
@@ -126,7 +133,7 @@
       id: 16,
       title: "White Girl Summer II",
       description: "Digital painting, mysterious surfer babe transcending space and time.",
-      collection: "Ladies & Goddesses",
+      collection: "Ladies and Goddesses",
       imageURL: "https://i.imgur.com/WEPj9SB.png"
 
     },
@@ -134,7 +141,7 @@
       id: 17,
       title: "Wotan incarnated in modern times",
       description: "Who could it be? ",
-      collection: "Lords & Gods",
+      collection: "Lords and Gods",
       imageURL: "https://i.imgur.com/jjmTGjK.png"
 
     },
@@ -188,7 +195,7 @@
     {
       id: 24,
       title: "The Upkeeper",
-      description: "Concept artwork for the Sonic Gold token",
+      description: "A spanish upkeeper enjoying the view of his work",
       collection: "The Walks of Life",
       imageURL: "https://i.imgur.com/nbCB23S.png"
 
